@@ -1,0 +1,2 @@
+# CS1550-Operating-Systems-PITT-Spring-22
+This repository has all the labs and the projects for the semester of Spring '22 for the class CS1550 Operating Systems at the University of Pittsburgh main campus. This class was taught by Professor Sheriff Khattab. The grades for the labs were as follows: Lab1->100, Lab2->100, Lab3->100, Lab4->100. The grades for the projects were as follows: Project1->100, Project2->105(bonus), Project3->95(partial credit for OPT), Project4->26
